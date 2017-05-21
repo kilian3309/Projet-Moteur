@@ -1,0 +1,15 @@
+﻿  DXUTres.cpp
+  DXUTcamera.cpp
+  DXUTgui.cpp
+e:\c++\projet moteur\dxut\optional\dxutgui.cpp(6647): warning C4458: la déclaration de 'iTexture' masque le membre de classe
+  e:\c++\projet moteur\dxut\optional\dxutgui.h(117): note: voir la déclaration de 'CDXUTElement::iTexture'
+e:\c++\projet moteur\dxut\optional\dxutgui.cpp(6662): warning C4458: la déclaration de 'iFont' masque le membre de classe
+  e:\c++\projet moteur\dxut\optional\dxutgui.h(118): note: voir la déclaration de 'CDXUTElement::iFont'
+e:\c++\projet moteur\dxut\optional\dxutgui.cpp(6662): warning C4458: la déclaration de 'dwTextFormat' masque le membre de classe
+  e:\c++\projet moteur\dxut\optional\dxutgui.h(119): note: voir la déclaration de 'CDXUTElement::dwTextFormat'
+  DXUTguiIME.cpp
+  DXUTsettingsdlg.cpp
+  ImeUi.cpp
+  SDKmisc.cpp
+  Génération de code en cours...
+  DXUTOpt_DirectXTK_2012.vcxproj -> E:\C++\Projet Moteur\DXUT\Optional\Bin\DirectXTK_2012\Win32\Debug\DXUTOpt.lib

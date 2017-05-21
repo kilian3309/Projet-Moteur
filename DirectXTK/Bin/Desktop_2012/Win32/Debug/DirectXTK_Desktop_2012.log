@@ -1,0 +1,64 @@
+﻿  pch.cpp
+  WICTextureLoader.cpp
+  VertexTypes.cpp
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(273): warning C4458: la déclaration de 'color' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(233): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTexture::color'
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(325): warning C4458: la déclaration de 'weights' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(289): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTextureSkinning::weights'
+e:\c++\projet moteur\directxtk\src\vertextypes.cpp(119): warning C4458: la déclaration de 'color' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(233): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTexture::color'
+e:\c++\projet moteur\directxtk\src\vertextypes.cpp(145): warning C4458: la déclaration de 'indices' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(288): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTextureSkinning::indices'
+e:\c++\projet moteur\directxtk\src\vertextypes.cpp(150): warning C4458: la déclaration de 'weights' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(289): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTextureSkinning::weights'
+  SpriteFont.cpp
+  PrimitiveBatch.cpp
+  SpriteBatch.cpp
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(273): warning C4458: la déclaration de 'color' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(233): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTexture::color'
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(325): warning C4458: la déclaration de 'weights' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(289): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTextureSkinning::weights'
+  SkinnedEffect.cpp
+  ScreenGrab.cpp
+e:\c++\projet moteur\directxtk\src\screengrab.cpp(925): warning C4838: la conversion de 'UINT' en 'INT' requiert une conversion restrictive
+  ModelLoadSDKMESH.cpp
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(273): warning C4458: la déclaration de 'color' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(233): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTexture::color'
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(325): warning C4458: la déclaration de 'weights' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(289): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTextureSkinning::weights'
+  ModelLoadCMO.cpp
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(273): warning C4458: la déclaration de 'color' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(233): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTexture::color'
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(325): warning C4458: la déclaration de 'weights' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(289): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTextureSkinning::weights'
+  Model.cpp
+e:\c++\projet moteur\directxtk\src\model.cpp(45): warning C4458: la déclaration de 'effect' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\model.h(67): note: voir la déclaration de 'DirectX::ModelMeshPart::effect'
+e:\c++\projet moteur\directxtk\src\model.cpp(45): warning C4458: la déclaration de 'inputLayout' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\model.h(64): note: voir la déclaration de 'DirectX::ModelMeshPart::inputLayout'
+e:\c++\projet moteur\directxtk\src\model.cpp(74): warning C4458: la déclaration de 'effect' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\model.h(67): note: voir la déclaration de 'DirectX::ModelMeshPart::effect'
+e:\c++\projet moteur\directxtk\src\model.cpp(74): warning C4458: la déclaration de 'inputLayout' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\model.h(64): note: voir la déclaration de 'DirectX::ModelMeshPart::inputLayout'
+e:\c++\projet moteur\directxtk\src\model.cpp(97): warning C4458: la déclaration de 'effect' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\model.h(67): note: voir la déclaration de 'DirectX::ModelMeshPart::effect'
+  GeometricPrimitive.cpp
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(273): warning C4458: la déclaration de 'color' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(233): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTexture::color'
+e:\c++\projet moteur\directxtk\inc\vertextypes.h(325): warning C4458: la déclaration de 'weights' masque le membre de classe
+  e:\c++\projet moteur\directxtk\inc\vertextypes.h(289): note: voir la déclaration de 'DirectX::VertexPositionNormalTangentColorTextureSkinning::weights'
+  EnvironmentMapEffect.cpp
+  EffectFactory.cpp
+  EffectCommon.cpp
+  BinaryReader.cpp
+  DualTextureEffect.cpp
+  DGSLEffectFactory.cpp
+  DGSLEffect.cpp
+  DDSTextureLoader.cpp
+  CommonStates.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  BasicEffect.cpp
+  AlphaTestEffect.cpp
+  Génération de code en cours...
+  DirectXTK_Desktop_2012.vcxproj -> E:\C++\Projet Moteur\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib

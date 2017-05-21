@@ -1,0 +1,8 @@
+﻿  DXUT.cpp
+e:\c++\projet moteur\dxut\core\dxut.cpp(580): warning C4838: la conversion de 'UINT' en 'LONG' requiert une conversion restrictive
+e:\c++\projet moteur\dxut\core\dxut.cpp(581): warning C4838: la conversion de 'UINT' en 'LONG' requiert une conversion restrictive
+  DXErr.cpp
+  DXUTDevice11.cpp
+  DXUTmisc.cpp
+  Génération de code en cours...
+  DXUT_DirectXTK_2012.vcxproj -> E:\C++\Projet Moteur\DXUT\Core\Bin\DirectXTK_2012\Win32\Debug\DXUT.lib
