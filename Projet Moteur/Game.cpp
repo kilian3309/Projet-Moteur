@@ -388,7 +388,7 @@ void Game::CreateDevice()
 	
 
 	this->CreateLoadRender3D(DirectX::GeometricPrimitive::CreateCube(m_d3dContext.Get()), L"cobblestone.bmp");
-	this->CreateLoadRender3D(DirectX::GeometricPrimitive::CreateCube(m_d3dContext.Get()), L"controller.png");
+	//this->CreateLoadRender3D(DirectX::GeometricPrimitive::CreateCube(m_d3dContext.Get()), L"controller.png");
 
 	// TODO: Initialize device dependent objects here (independent of window size).
 
